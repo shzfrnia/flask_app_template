@@ -1,1 +1,1 @@
-Pattern_Chain_of_responsibility
+ # Template for Flask web application
